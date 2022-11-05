@@ -1,0 +1,15 @@
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/obj/Debug/net6.0/EX_21.csproj.AssemblyReference.cache
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/obj/Debug/net6.0/EX_21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/obj/Debug/net6.0/EX_21.AssemblyInfoInputs.cache
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/obj/Debug/net6.0/EX_21.AssemblyInfo.cs
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/obj/Debug/net6.0/EX_21.csproj.CoreCompileInputs.cache
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/bin/Debug/net6.0/EX_21
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/bin/Debug/net6.0/EX_21.deps.json
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/bin/Debug/net6.0/EX_21.runtimeconfig.json
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/bin/Debug/net6.0/EX_21.dll
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/bin/Debug/net6.0/ref/EX_21.dll
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/bin/Debug/net6.0/EX_21.pdb
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/obj/Debug/net6.0/EX_21.dll
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/obj/Debug/net6.0/ref/EX_21.dll
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/obj/Debug/net6.0/EX_21.pdb
+/Users/kseniya/Desktop/Learning/seminar_3/HW_3/EX_21/obj/Debug/net6.0/EX_21.genruntimeconfig.cache
